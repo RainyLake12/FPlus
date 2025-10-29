@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# F+ code of conduct
 
 ## Our Pledge
 
